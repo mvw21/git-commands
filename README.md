@@ -22,7 +22,7 @@ git branch -d newb
 
 
 merge
-----
-git checkout main /n
-git merge newb /n
-git push
+------
+- git checkout main
+- git merge newb
+- git push
