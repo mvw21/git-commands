@@ -26,3 +26,8 @@ merge
 - git checkout main
 - git merge newb
 - git push
+
+error: The following untracked working tree files would be overwritten by checkout:
+You can try command to clear the untracked files from the local
+------------------
+- git clean -d -f .
